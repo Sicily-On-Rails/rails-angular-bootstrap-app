@@ -2,9 +2,9 @@
 
 ### FEATURES:
 
-* Ruby version 2.5.0
+* Ruby version 2.5.1
 
-* Ruby on Rails version 5.1.4
+* Ruby on Rails version 5.2.0
 
 * Bootstarp 3.3.7
 
