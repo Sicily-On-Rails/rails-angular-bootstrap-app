@@ -69,15 +69,15 @@ var CustomerSearchComponent = Component({
   <ol class="list-group"> \
     <li *ngFor="let customer of customers" \
       class="list-group-item clearfix"> \
-      <h3 class="pull-right"> \
+      <h5 class="text-right"> \
         <small class="text-uppercase">Joined</small> \
         {{customer.created_at}} \
-      </h3> \
-      <h2 class="h3"> \
+      </h5> \
+      <h4 class="h5"> \
         {{customer.first_name}} {{customer.last_name}} \
-        <small>{{customer.username}}</small> \
-      </h2> \
-      <h4>{{customer.email}}</h4> \
+        <small class="text-muted">{{customer.username}}</small> \
+      </h4> \
+      <h5>{{customer.email}}</h5> \
     </li> \
   </ol> \
 </section> \

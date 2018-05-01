@@ -6,7 +6,7 @@
 
 * Ruby on Rails version 5.2.0
 
-* Bootstarp 3.3.7
+* Bootstarp 4.1.1
 
 * Postgres 9.6.3
 
